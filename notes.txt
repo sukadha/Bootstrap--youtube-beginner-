@@ -46,6 +46,15 @@ website to learn bootstrap -> "https://getbootstrap.com/"
 
 ----------------------------------upto her containers ----------------------------------
 
+
+CDN -> Content Delivery Network
+
+RFS -> Responsive Font Sizes
+
+RTL -> Right to Left
+
+
+
 *In containers we have rows and columns
 
 ----->for each row by default we have 12 columns
