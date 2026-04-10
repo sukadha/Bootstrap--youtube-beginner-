@@ -46,6 +46,16 @@ website to learn bootstrap -> "https://getbootstrap.com/"
 
 ----------------------------------upto her containers ----------------------------------
 
+| Class | Breakpoint                      | Width (px) |
+| ----- | ------------------------------- | ---------- |
+| `sm`  | ≥ 576px                         |            |
+| `md`  | ≥ 768px                         |            |
+| `lg`  | ≥ 992px (💻 laptop starts here) |            |
+| `xl`  | ≥ 1200px                        |            |
+| `xxl` | ≥ 1400px                        |            |
+
+
+
 
 CDN -> Content Delivery Network
 
