@@ -1,3 +1,9 @@
+what is bootstrap?
+
+Bootstrap provides an easy-to-use framework of ready-made styles, layout tools, and interactive components, allowing developers to create websites and applications that are visually appealing, functionally rich, and accessible out of the box.
+
+
+
 (components & container & brake pointers & colors & grid) are the 2 most important topics in bootstrap
 
 
